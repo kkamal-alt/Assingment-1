@@ -1,0 +1,3 @@
+/Users/Karen/CS2-Calculator-YourName/build/CMakeFiles/calculator.dir
+/Users/Karen/CS2-Calculator-YourName/build/CMakeFiles/edit_cache.dir
+/Users/Karen/CS2-Calculator-YourName/build/CMakeFiles/rebuild_cache.dir
